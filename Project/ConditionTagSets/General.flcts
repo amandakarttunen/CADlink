@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultConditionTagSet
+  Comment="My set of condition tags"
+  conditions="">
+  <ConditionTag
+    Comment="Brand"
+    Name="ProfileLab"
+    BackgroundColor="#c0c0c0" />
+  <ConditionTag
+    BackgroundColor="#8a2be2"
+    Name="SignLab"
+    Comment="Brand"
+    Color="Normal"
+    OriginalName="Online" />
+  <ConditionTag
+    BackgroundColor="#008000"
+    Name="EngraveLab"
+    Comment="Brand" />
+  <ConditionTag
+    BackgroundColor="#ffff00"
+    Name="FilmMaker"
+    Comment="Brand" />
+  <ConditionTag
+    BackgroundColor="#0000ff"
+    Name="DigitalFactory"
+    Comment="Brand" />
+  <ConditionTag
+    BackgroundColor="#ff0000"
+    Name="English"
+    Comment="Language" />
+  <ConditionTag
+    BackgroundColor="#daa520"
+    Name="German"
+    Comment="Language" />
+  <ConditionTag
+    BackgroundColor="#7cfc00"
+    Name="Italian"
+    Comment="Language" />
+  <ConditionTag
+    BackgroundColor="#ff1493"
+    Name="Spanish"
+    Comment="Language" />
+  <ConditionTag
+    BackgroundColor="#00ffff"
+    Name="Portuguese"
+    Comment="Language" />
+  <ConditionTag
+    BackgroundColor="#e6e6fa"
+    Name="French"
+    Comment="Language" />
+  <ConditionTag
+    BackgroundColor="#191970"
+    Name="CADlink"
+    Comment="Company" />
+  <ConditionTag
+    BackgroundColor="#ff8500"
+    Name="OEM"
+    Comment="Company" />
+</CatapultConditionTagSet>

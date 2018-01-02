@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="Product Foldout—3-Fold"
+  Type="PDF"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="include[General.SignLab] exclude[General.DigitalFactory or General.English or General.EngraveLab or General.FilmMaker or General.French or General.German or General.Italian or General.Portuguese or General.ProfileLab or General.Spanish] "
+  PatchHeadingLevels="true"
+  InjectEmptyPages="true"
+  MasterToc="/Project/TOCs/ProductFoldout.fltoc"
+  OutputFolder="C:\Users\amandak\Documents\My Project Exports\Quick Start Guide for Sign Lab 10">
+  <PrintedOutput
+    CollapseMargins="true"
+    ExpandingTextConversion="expand"
+    PopupConversion="remove-body"
+    GenerateTOCProxy="false"
+    GenerateIndexProxy="false"
+    GenerateGlossaryProxy="false" />
+  <DocumentProperties
+    Title="Product Foldout—3-Fold"
+    Author="My Name" />
+  <PDF
+    ShowUsedBookmarks="false"
+    InitialMagnification="Fit"
+    TitleBar="DocumentTitle"
+    CollapsedBookmarks="true"
+    CropAndRegistrationMarks="false"
+    ConvertToCMYK="true"
+    PageMode="UseNone" />
+</CatapultTarget>
